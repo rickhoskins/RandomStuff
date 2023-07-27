@@ -46,7 +46,8 @@ A URL (Uniform Resource Locator) is a web address that is used to locate and acc
 http://www.example.com/path/to/resource
 
 Here's a breakdown of the components:
-<SNIP>
+
+*cut out for brevity*
 
 **User**
 
